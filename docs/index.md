@@ -4,7 +4,7 @@ layoutClass: 'm-home-layout'
 
 hero:
   name: Meiyu's
-  text: 前端导航
+  text: 前端导航🧭
   tagline: 基于 VitePress 的个人前端导航页面模板
   image:
     src: /logo.png
