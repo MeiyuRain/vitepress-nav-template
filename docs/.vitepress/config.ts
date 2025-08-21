@@ -28,10 +28,10 @@ export default defineConfig({
       level: 'deep',
       label: '目录',
     },
-    socialLinks: [{ icon: 'github', link: 'https://github.com/maomao1996/vitepress-nav-template' }],
+    socialLinks: [{ icon: 'github', link: 'https://github.com/MeiyuRain/vitepress-nav-template' }],
     footer: {
       message: '如有转载或 CV 的请标注本站原文地址',
-      copyright: 'Copyright © 2019-present maomao',
+      copyright: 'Copyright © 2025-present MeiyuRain',
     },
     lastUpdated: {
       text: '最后更新于',
