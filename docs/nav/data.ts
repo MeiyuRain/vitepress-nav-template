@@ -67,19 +67,19 @@ export const NAV_DATA: NavData[] = [
     ],
   },
   {
-    title: '茂茂的站点导航',
+    title: 'Meiyu的站点导航',
     items: [
       {
         icon: '/logo.png',
-        title: '前端日常笔记',
-        desc: '日常笔记记录（零零散散啥都记系列）',
-        link: 'https://github.com/maomao1996/daily-notes',
+        title: '博客🏴‍☠️',
+        desc: '日常生活吐槽（啥东西都发系列）',
+        link: 'https://blog.meiyukj.cn',
       },
       {
         icon: '/logo.png',
-        title: '前端思维导图',
-        desc: '用思维导图的方式总结个人所学知识',
-        link: 'https://mindmap.fe-mm.com',
+        title: '文档📖',
+        desc: '技术分享',
+        link: 'https://docs.meiyukj.cn',
       },
       {
         icon: 'https://qwerty.fe-mm.com/apple-touch-icon.png',
