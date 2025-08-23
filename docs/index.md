@@ -11,7 +11,7 @@ hero:
     alt: MeiyuRain
   actions:
     - text: 博客🏴‍☠️
-      link: https://blog.meiyukj.cn
+      link: https://blog.meiyurain.cn
     - text: 导航🧭
       link: /nav/
       theme: alt
