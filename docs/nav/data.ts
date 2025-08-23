@@ -73,7 +73,7 @@ export const NAV_DATA: NavData[] = [
         icon: '/logo.png',
         title: '博客🏴‍☠️',
         desc: '日常生活吐槽（啥东西都发系列）',
-        link: 'https://blog.meiyukj.cn',
+        link: 'https://blog.meiyurain.cn',
       },
       {
         icon: '/logo.png',
