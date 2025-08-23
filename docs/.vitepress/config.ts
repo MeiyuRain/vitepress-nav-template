@@ -50,13 +50,13 @@ export default defineConfig({
     lightModeSwitchTitle: '切换到浅色模式',
     darkModeSwitchTitle: '切换到深色模式',
     visitor: {
-      badgeId: 'maomao1996.vitepress-nav-template',
+      badgeId: 'meiyurain.vitepress-nav-template',
     },
     comment: {
-      repo: 'maomao1996/vitepress-nav-template',
-      repoId: 'R_kgDOJC09Jg',
+      repo: 'MeiyuRain/vitepress-nav-template',
+      repoId: 'R_kgDOPfCv0Q',
       category: 'Announcements',
-      categoryId: 'DIC_kwDOJC09Js4Cekn0',
+      categoryId: 'DIC_kwDOPfCv0c4CufyG',
     },
   },
 
